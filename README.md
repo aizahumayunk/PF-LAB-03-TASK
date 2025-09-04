@@ -7,6 +7,12 @@ _This is for Italic text_
 <br/>
 Unordered List
 <br/>
--list 1
--list 2
--list 3
+- list 1
+- list 2
+- list 3
+- list 4
+<br/>
+Ordered List
+lab 1
+lab2
+lab3
