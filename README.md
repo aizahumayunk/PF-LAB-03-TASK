@@ -13,6 +13,7 @@ Unordered List
 - list 4
 <br/>
 Ordered List
-lab 1
-lab2
-lab3
+1. lab 1
+2. lab 2
+3. lab3
+
